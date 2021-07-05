@@ -1,6 +1,8 @@
 # 👋 Olá, sou Anderson💻 👍 Bem vindo ao meu GitHub![Man Raising Hand: Light Skin Tone on WhatsApp ](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/whatsapp/273/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png)
 
-Sou graduando em Sistemas de Informação pelo IFBA (Instituto Federal de Ciência e Tecnologia da Bahia) estou cursando 5° semestre. Atualmente estou focado em estudar tecnologias voltadas para o desenvolvimento web mais especificamente front-end. Gosto de pegar os projetos que desenvolvi em cursos ou bootcamps e dar a eles uma cara diferente utilizando dos meus conhecimentos para consolidar ainda mais o aprendizado.
+Graduando em Sistemas de Informação pelo [IFBA](https://portal.ifba.edu.br/) (Instituto Federal de Ciência e Tecnologia da Bahia),  faço parte do grupo de pesquisa [GIPAR-IFBA](http://dgp.cnpq.br/dgp/espelhogrupo/2614433331383732) (Grupo de Inovação e Pesquisa em Automação e Robótica). Também estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web), uma escola que ensina a programar, a aprender e a trabalhar. 
+
+Quando criança sempre gostei de desmontar meus brinquedos para remontar novamente. A curiosidade me move e estou sempre à procura de aprender algo novo que agregue valor, seja na minha vida pessoal ou profissional. Adoro trabalhar com tecnologia, sou apaixonado por Desenvolvimento Web e marcas que trabalhem para contribuir com uma melhor interação digital. 
 
 A seguir na tabela estão alguns dos projetos que desenvolvi durante algum curso ou bootcamp e as alterações que fiz nos mesmos descritas no README do repositório do projeto.
 
