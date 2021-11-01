@@ -7,9 +7,6 @@
 
 Graduando em Sistemas de Informação pelo [IFBA](https://portal.ifba.edu.br/) (Instituto Federal de Ciência e Tecnologia da Bahia),  faço parte do grupo de pesquisa [GIPAR-IFBA](http://dgp.cnpq.br/dgp/espelhogrupo/2614433331383732) (Grupo de Inovação e Pesquisa em Automação e Robótica). Também estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web), uma escola que ensina a programar, a aprender e a trabalhar. 
 
-Quando criança sempre gostei de desmontar meus brinquedos para remontar novamente. A curiosidade me move e estou sempre à procura de aprender algo novo que agregue valor, seja na minha vida pessoal ou profissional. Adoro trabalhar com tecnologia, sou apaixonado por Desenvolvimento Web. 
-
-
 
 **Linguagens e Ferramentas:** 
 
