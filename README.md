@@ -15,8 +15,8 @@ Graduando em Sistemas de Informação pelo [IFBA](https://portal.ifba.edu.br/) (
   </a>
 
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-5D3D8B?style=flat&logo=bootstrap)
 
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![jQuery](https://img.shields.io/badge/-jQuery-0C63A7?style=flat&logo=jquery)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-593692?style=flat&logo=redux) ![jQuery](https://img.shields.io/badge/-jQuery-0C63A7?style=flat&logo=jquery)
 
 ![Bash](https://img.shields.io/badge/-Bash-272E35?style=flat&logo=bash) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![Jest](https://img.shields.io/badge/-Jest-944058?style=flat&logo=jest) 
