@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, sou Anderson! 💻 Bem vindo ao meu GitHub![Man Raising Hand: Light Skin Tone on WhatsApp ](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/whatsapp/273/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> Olá, sou Anderson! 💻 Bem vindo ao meu GitHub![Man Raising Hand: Light Skin Tone on WhatsApp ](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/whatsapp/273/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/andersonleite1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andersonleitedev/)
 [![](https://img.shields.io/badge/Gmail-andersonleite.dev%40gmail.com-red)](mailto:andersonleite.dev@gmail.com)
