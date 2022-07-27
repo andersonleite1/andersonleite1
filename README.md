@@ -5,7 +5,7 @@
 
 
 Sou Desenvolvedor Web Full Stack formado na [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web), uma escola que ensina a programar, a aprender e a trabalhar.
-Também estou me graduando em Sistemas de Informação pelo [IFBA](https://portal.ifba.edu.br/) (Instituto Federal de Ciência e Tecnologia da Bahia). 
+Também estou me graduando em Sistemas de Informação pelo [IFBA](https://portal.ifba.edu.br/conquista/capas-e-paginas-menu-cursos/sistemas-de-informacao) (Instituto Federal de Ciência e Tecnologia da Bahia). 
 
 
  <a href="https://github.com/andersonleite1">
