@@ -9,9 +9,8 @@ Sou Desenvolvedor FullStack, atualmente trabalho no desenvolvimento e manutenç�
 ____
 
 ### 📝 Posts Em Destaque!
-- [Instalação Completa do Docker no Ubuntu LTS](https://google.com](https://dev.to/andersonleite/instalacao-completa-do-docker-no-ubuntu-lts-5bpi))
-- [Como instalar Docker Compose no Linux](https://google.com](https://dev.to/andersonleite/como-instalar-docker-compose-no-linux-2iin))
-
+- <a href="https://google.com](https://dev.to/andersonleite/instalacao-completa-do-docker-no-ubuntu-lts-5bpi" target="_blank">Instalação Completa do Docker no Ubuntu LTS</a>
+- <a href="https://google.com](https://dev.to/andersonleite/como-instalar-docker-compose-no-linux-2iin">Como instalar Docker Compose no Linux</a>
 ____
 
 ## ⚡ Tecnologias
