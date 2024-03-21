@@ -9,9 +9,9 @@ Sou Desenvolvedor FullStack, atualmente trabalho no desenvolvimento e manutenç�
 ____
 
 ### 📝 Posts Em Destaque!
+- <a href="https://dev.to/andersonleite/testes-unitarios-com-junit-no-java-26lf">Testes Unitários com JUnit no Java</a>
 - <a href="https://dev.to/andersonleite/instalacao-completa-do-docker-no-ubuntu-lts-5bpi" target="_blank">Instalação Completa do Docker no Ubuntu LTS</a>
 - <a href="https://dev.to/andersonleite/como-instalar-docker-compose-no-linux-2iin">Como instalar Docker Compose no Linux</a>
-- <a href="https://dev.to/andersonleite/testes-unitarios-com-junit-no-java-26lf">Testes Unitários com JUnit no Java</a>
 
 ____
 
