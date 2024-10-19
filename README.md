@@ -13,6 +13,10 @@ ____
 - <a href="https://dev.to/andersonleite/instalacao-completa-do-docker-no-ubuntu-lts-5bpi" target="_blank">Instalação Completa do Docker no Ubuntu LTS</a>
 - <a href="https://dev.to/andersonleite/como-instalar-docker-compose-no-linux-2iin">Como instalar Docker Compose no Linux</a>
 
+### 💡 Projetos Em Destaque!
+- <a href="https://geradorsenhas.com.br">Gerador de Senhas Fortes</a>
+- <a href="https://andersonleite.dev/">Site andersonleite.dev</a>
+
 ____
 
 ## ⚡ Tecnologias
