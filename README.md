@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou Desenvolvedor FullStack, atualmente trabalho no desenvolvimento e manutenção de aplicações web na Quality Telecomunicações, utilizando no dia a dia tecnologias como: Linguagem Java, Spring, JPA (Java Persistence API), Hibernate, JSF (JavaServer Faces), Banco de Dados MySQL, HTML, CSS, JavaScript, Git, GitLab e entre outros.
+Sou desenvolvedor Full-Stack especializado em tecnologias Java Web, com experiência em desenvolvimento e manutenção de aplicações empresariais. Atualmente, contribuo no time da Quality Telecomunicações, onde atuo no desenvolvimento de soluções utilizando Java, Spring Framework, JSF (JavaServer Faces), JPA/Hibernate, MySQL, e tecnologias web como HTML, CSS, JavaScript entre outras.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/andersonleite1?tab=followers)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andersonleitedev/)
